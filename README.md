@@ -28,7 +28,7 @@ You can install the development version of regexcite from
 devtools::install_github("whitecat2021/regexcite")
 ```
 
-## Example
+## Usage
 
 A fairly common task when dealing with strings is the need to split a
 single string into many parts. This is what `base::strplit()` and
